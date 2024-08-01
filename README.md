@@ -1,10 +1,17 @@
 ## Hi there 👋
 
+My name is Rachel and I'm based in the UK.
+
+- 🌱 I’m currently learning all about GitHub!
+- 💬 Ask me about www.VeloViewer.com
+- 📫 How to reach me: rachel@veloviewer.com
+- 😄 Pronouns: she/her
+
+  
 <!--
 **raquelquefois/raquelquefois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
